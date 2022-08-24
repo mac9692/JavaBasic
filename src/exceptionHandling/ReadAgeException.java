@@ -1,4 +1,4 @@
-package ExceptionHandling;
+package exceptionHandling;
 
 public class ReadAgeException extends Exception {
     public ReadAgeException() {

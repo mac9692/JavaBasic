@@ -1,4 +1,4 @@
-package ExceptionHandling;
+package exceptionHandling;
 
 public class ExceptionCase2 {
     public static void main(String[] args) {

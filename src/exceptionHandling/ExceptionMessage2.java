@@ -1,8 +1,12 @@
-package ExceptionHandling;
+package exceptionHandling;
 
-public class ExceptionMessage {
+public class ExceptionMessage2 {
     public static void main(String[] args) {
-        md1(3);
+        try {
+            md1(3);
+        } catch (Throwable throwable) {
+            throwable.printStackTrace();
+        }
         System.out.println("Appplication End");
     }
 

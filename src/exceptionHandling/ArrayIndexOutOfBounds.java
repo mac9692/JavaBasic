@@ -1,4 +1,4 @@
-package ExceptionHandling;
+package exceptionHandling;
 
 public class ArrayIndexOutOfBounds {
     public static void main(String[] args) {
