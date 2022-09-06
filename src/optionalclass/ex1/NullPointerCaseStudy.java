@@ -1,5 +1,7 @@
 package optionalclass.ex1;
 
+import java.util.Optional;
+
 public class NullPointerCaseStudy {
     public static void showCompanyAddress(Friend friend) {
         String address = null;
@@ -21,6 +23,7 @@ public class NullPointerCaseStudy {
                 System.out.println("Address is null");
             }
         }
+
     }
 
     public static void main(String[] args) {
