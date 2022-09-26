@@ -17,5 +17,6 @@ public class ToyStream {
                 .sum();
 
         System.out.println(sum);
+
     }
 }
